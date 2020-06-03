@@ -1,3 +1,3 @@
 # Here are some fun projects
 
-![abc](https://github.com/HenryVage/School/blob/master/Hobby/heim.gif)
+![My home a 3d model](https://github.com/HenryVage/School/blob/master/Hobby/heim.gif)
