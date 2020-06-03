@@ -1,4 +1,5 @@
 #/bash/bin
+# simple script to monitor a given file, tells if its created, changed or deleted
 fil=$1
 declare -i sek=$2
 var=true
