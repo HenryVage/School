@@ -1,4 +1,5 @@
 #/bash/bin
+#simple script to summarize time of incidents(hendelser)
 read -p "Hva er hendelsen?" hendelse
 str=$(grep [$hendelse] < cat hendelse.logg)
 printf -v str '%s' $str
